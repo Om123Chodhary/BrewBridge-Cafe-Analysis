@@ -44,7 +44,7 @@ This project analyzes sales, customer behavior, and the effectiveness of a year�
    `jupyter notebook notebooks/BrewBridge_Analysis.ipynb`
 
 ## 📄 Report
-For a detailed business interpretation, see [BrewBridge_Report.pdf](reports/BrewBridge_Report.pdf).
+For a detailed business interpretation, see [BrewBridge_Report.pdf](BrewBridge_Report.pdf).
 
 ## 👤 Author
 Your Name – https://github.com/Om123Chodhary
