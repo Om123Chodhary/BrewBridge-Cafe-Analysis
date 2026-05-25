@@ -31,9 +31,9 @@ This project analyzes sales, customer behavior, and the effectiveness of a year�
 - **Bulk orders** (₹9,240, 32 pasta salads) suggest demand for catering.
 
 ## 📈 Sample Visualizations
-![Customer Distribution](images/customer_distributions.png)
-![Top Products & Revenue](images/sales_analysis.png)
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Customer Distribution](customer_distributions.png)
+![Top Products & Revenue](sales_analysis.png)
+![Correlation Heatmap](correlation_heatmap.png)
 
 ## 🚀 How to Run
 1. Clone this repository  
